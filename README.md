@@ -12,6 +12,8 @@ Below are the CONTENTS of this repository -
 
 4)  Use of SOL Sub-Query
 
-5)  Use of In-built functions and Relational Operators
+5)  Role of Sub-Query in Data Mining (Theory)
 
-6)  Use of different SQL clauses
+6)  Use of In-built functions and Relational Operators
+
+7)  Use of different SQL clauses
