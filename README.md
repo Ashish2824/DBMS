@@ -2,6 +2,7 @@
 This Database and Management System(DBMS) repository contains implementation of DBMS concepts. This is all the LAB WORK of ADBMS I have done at UPES.
 I have used ORACLE MYSQL for all my code and implementations
 
+________________________________________________________________________
 Below are the CONTENTS of this repository -
 
 1)  Introduction of ORACLE and Databases (Theory)
@@ -17,3 +18,4 @@ Below are the CONTENTS of this repository -
 6)  Use of In-built functions and Relational Operators
 
 7)  Use of different SQL clauses
+________________________________________________________________________
