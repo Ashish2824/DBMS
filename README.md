@@ -11,7 +11,7 @@ Below are the CONTENTS of this repository -
 
 3)  Understanding the concept of constraints
 
-4)  Use of SOL Sub-Query
+4)  Use of SQL Sub-Query
 
 5)  Role of Sub-Query in Data Mining (Theory)
 
